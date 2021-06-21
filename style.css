@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: black;
 }
 
 .d-bloc .panel button:hover,
@@ -266,14 +266,15 @@ a:hover {
 
 .title1, .title2{
     font-size: 20px;
+    color: black;
 }
 
 q{
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
-figcaption{
+cite{
     font-size: 16px;
     margin-top: 10px;
 }
@@ -665,7 +666,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black;
 }
 
 .container {
@@ -751,6 +752,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-weight: 900;
 }
 
 .portfolio-thumb {
@@ -1001,6 +1003,11 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .col-sm-4{
+        font-weight: 900;
+    }
+
     .bloc-tile-2 .container,
     .bloc-tile-3 .container,
     .bloc-tile-4 .container,
