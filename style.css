@@ -1008,6 +1008,11 @@ h4 {
         font-weight: 900;
     }
 
+    p.text-center.white{
+        font-size: 13px;
+        font-weight: 900;
+    }
+
     .bloc-tile-2 .container,
     .bloc-tile-3 .container,
     .bloc-tile-4 .container,
